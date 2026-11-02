@@ -8,7 +8,7 @@ to run on Kaggle — attach the competition data and run all cells.
 
 | Competition | Metric | v1 score | v2 score |
 |---|---|---|---|
-| [Predicting Credit Card Fraud — Playground Series S6E11](https://www.kaggle.com/competitions/playground-series-s6e11) | ROC AUC | 0.94650 | pending (v2 running) |
+| [Predicting Credit Card Fraud — Playground Series S6E11](https://www.kaggle.com/competitions/playground-series-s6e11) | ROC AUC | 0.94650 | 0.94638 (v1 remains best) |
 | [Titanic — Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) | Accuracy | 0.75837 | 0.77272 |
 
 ## 1. Predicting Credit Card Fraud (S6E11)
